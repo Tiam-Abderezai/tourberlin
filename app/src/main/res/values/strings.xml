@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tour Berlin!</string>
+
+    <string name="tab_text_sights">SIGHTS</string>
+    <string name="tab_text_food">FOOD</string>
+    <string name="tab_text_shops">SHOPS</string>
+    <string name="tab_text_info">INFO</string>
+
+    <string name="brandenburger_gate">Brandenburger Tor</string>
+    <string name="technik_museum">Technikmuseum</string>
+    <string name="fernsehturm">Fernsehturm</string>
+    <string name="alexanderplatz_berlin">Alexanderplatz</string>
+    <string name="reichstag_berlin">Reichstag</string>
+
+
+    <string name="curry_wurst">Curry Wurst</string>
+    <string name="zur_letzten_instanz">Zur letzten Instanz</string>
+    <string name="the_bird_berlin">The Bird</string>
+    <string name="kotti_doener">Kotti Döner</string>
+    <string name="imren_grill">Imren Grill</string>
+
+
+    <string name="mall_of_berlin">Berlin Mall</string>
+    <string name="sing_blackbird">Sing Blackbird</string>
+    <string name="ampel_mann">Ampel Mann</string>
+    <string name="berliner_zinfiguren">Berliner Zinfiguren</string>
+    <string name="bikini_berlin">Bikini Berlin</string>
+
+
+    <string name="berlin_hospital">Martin Luther Hospital</string>
+    <string name="us_consulate">US Consulate</string>
+    <string name="police_station">Police Station</string>
+    <string name="tiergarten_park">Tiergarten Park</string>
+    <string name="tegel_airport">Tegel Airport</string>
+
+
+</resources>
